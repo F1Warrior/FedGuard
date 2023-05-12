@@ -1,6 +1,6 @@
 
 
-### Detecting malicious updates with GANs in FL scenarios
+### Detecting malicious updates with CVAEs in FL scenarios
 
 * [FL scenarios](scenarios)
 
